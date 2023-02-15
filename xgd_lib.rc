@@ -72,7 +72,7 @@ BEGIN
 "CompanyName", "library created from xgd-project"
 VALUE "FileDescription", "library created from xgd-project"
 VALUE "FileVersion", "1.0.0.1"
-VALUE "LegalCopyright", "Copyright (C) 2022 XUGUODONG1999"
+VALUE "LegalCopyright", "Copyright (C) 2023 XUGUODONG1999"
 VALUE "ProductName", "library created from xgd-project"
 VALUE "ProductVersion", "1.0.0.1"
 END

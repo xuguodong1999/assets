@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>models/ncnn-yolov3-h3-c8/model.param</file>
+        <file>models/ncnn-yolov3-h3-c8/model.bin</file>
+        <file>models/ncnn-crnn-c57-fp16-v2/model.param</file>
+        <file>models/ncnn-crnn-c57-fp16-v2/model.bin</file>
+    </qresource>
+</RCC>

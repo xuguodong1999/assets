@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file compress="9" compress-algo="best">fonts/cocr.simfang.ttf</file>
+        <file compress="9" compress-algo="best">images/agree.png</file>
+        <file compress="9" compress-algo="best">images/ben2d.png</file>
+        <file compress="9" compress-algo="best">images/ben3d.png</file>
+        <file compress="9" compress-algo="best">images/clear.png</file>
+        <file compress="9" compress-algo="best">images/draw.png</file>
+        <file compress="9" compress-algo="best">images/filesave.png</file>
+        <file compress="9" compress-algo="best">images/home.png</file>
+        <file compress="9" compress-algo="best">images/logo.png</file>
+        <file compress="9" compress-algo="best">images/shutter.png</file>
+        <file compress="9" compress-algo="best">images/waiting.gif</file>
+    </qresource>
+</RCC>
