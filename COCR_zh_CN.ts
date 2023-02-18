@@ -145,8 +145,8 @@
 <context>
     <name>MainTabWidget</name>
     <message>
-        <source>leafxy app</source>
-        <translation>leafxy 应用</translation>
+        <source>COCR app</source>
+        <translation>COCR 应用</translation>
     </message>
     <message>
         <source>home</source>
@@ -471,8 +471,8 @@ You can use &apos;expand&apos; and &apos;see H&apos; button to try again</source
         <translation>欢迎页</translation>
     </message>
     <message>
-        <source>leafxy: a handwritting OCSR toolset</source>
-        <translation>leafxy：手写结构式图像识别应用</translation>
+        <source>COCR: a handwritting OCSR toolset</source>
+        <translation>COCR：手写结构式图像识别应用</translation>
     </message>
     <message>
         <source>introduction</source>
@@ -491,16 +491,16 @@ You can use &apos;expand&apos; and &apos;see H&apos; button to try again</source
         <translation>使用指引</translation>
     </message>
     <message>
-        <source>&lt;p&gt;LEAFXY app is an OCSR (Optical Chemical Structure Recognition) toolset capable of handling handwritten samples.&lt;/p&gt;&lt;p&gt;Honor of its creation belongs to Guodong Xu, an undergraduate of Nanjing University in 2021.&lt;/p&gt;&lt;p&gt;LEAFXY is a proper name. It is not an an acronym for anything.&lt;/p&gt;</source>
-        <translation>&lt;p&gt; leafxy 是一个具备手写支持的化学结构式图像识别工具。&lt;/p&gt;&lt;p&gt;leafxy 的诞生离不开徐国栋本科期间在南京大学计算机科学与技术系的工作。&lt;/p&gt;&lt;p&gt;&quot;leafxy&quot; 是一个专有名词，不是任何其它事物的缩略词。&lt;/p&gt;</translation>
+        <source>&lt;p&gt;COCR app is an OCSR (Optical Chemical Structure Recognition) toolset capable of handling handwritten samples.&lt;/p&gt;&lt;p&gt;Honor of its creation belongs to Guodong Xu, an undergraduate of Nanjing University in 2021.&lt;/p&gt;&lt;p&gt;COCR is a proper name. It is not an an acronym for anything.&lt;/p&gt;</source>
+        <translation>&lt;p&gt; COCR 是一个具备手写支持的化学结构式图像识别工具。&lt;/p&gt;&lt;p&gt;COCR 的诞生离不开徐国栋本科期间在南京大学计算机科学与技术系的工作。&lt;/p&gt;&lt;p&gt;&quot;COCR&quot; 是一个专有名词，不是任何其它事物的缩略词。&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;Before playing with this app, you have to accept GNU GPLv3 license and check the box beside.&lt;/p&gt;&lt;p&gt;Then, you may click the DRAW tab below to open a sketch board.&lt;/p&gt;&lt;p&gt;You can draw chemical structure formulas and click OCR button to recognize your script.&lt;/p&gt;&lt;p&gt;For hello world, draw a N-butane with three continuous line segments, click the purple.&lt;/p&gt;&lt;p&gt;A few moments later, you can see result from VIEW3D tab after a simple molecule dynamic job.&lt;/p&gt;&lt;p&gt;Single, double, triple bonds, solid and hash wedge bonds, wave and circle bonds as well as element or abbreviation strings are supported.&lt;/p&gt;&lt;p&gt;You can switch to VIEW2D tab to see 2d result.&lt;/p&gt;&lt;p&gt;Just double-click white area or click RESET button to reformat 2d result.&lt;/p&gt;&lt;p&gt;Load image from your device is also supported from FILE tab.&lt;/p&gt;&lt;p&gt;CAMERA tab works in a few devices. This feature is still under development.&lt;/p&gt;</source>
         <translation>&lt;p&gt;在使用这个程序前，你需要理解并同意我们的开源协议，并点击右侧的复选框。&lt;/p&gt;&lt;p&gt;下面，你可以点击屏幕下方第二个标签“手写”来打开一个绘图板。&lt;/p&gt;&lt;p&gt;你可以画一个化学结构式并点击“识别”按钮来获得结果。&lt;/p&gt;&lt;p&gt;从画一个正丁烷开始吧！一笔画出三条折线段，点击紫色的按钮！&lt;/p&gt;&lt;p&gt;一眨眼的功夫，你将在“3D 预览”标签上方的窗口看到一个经分子力场优化的三维球棍模型。&lt;/p&gt;&lt;p&gt;我们支持单、双、三键、虚实楔形键、波浪键、环中圈在内的七种化学键，以及包括所有元素符号、电荷、数字下标、常见缩写在内的长度合理的字符串。&lt;/p&gt;&lt;p&gt;你可以点击屏幕下方的“2D 预览”标签来获得平面结构式。&lt;/p&gt;&lt;p&gt;双击屏幕或点击“重置”按钮来获得标准化的平面结构式。&lt;/p&gt;&lt;p&gt;你也可以点开“文件”标签，从设备加载干净清晰的图片来识别。&lt;/p&gt;&lt;p&gt;照相机功能还在开发中，在某些设备上无法正常工作。&lt;/p&gt;</translation>
     </message>
     <message>
-        <source>LEAFXY app and its source code are licensed under GNU GPLv3.</source>
-        <translation>leafxy 应用和它的源代码以 GNU GPLv3 协议授权给您。</translation>
+        <source>COCR app and its source code are licensed under GNU GPLv3.</source>
+        <translation>COCR 应用和它的源代码以 GNU GPLv3 协议授权给您。</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
